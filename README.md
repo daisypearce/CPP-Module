@@ -1,2 +1,3 @@
 # CPP-Module
-C++ code stuff
+Made: 02/02/2026 
+C++ coding module 
